@@ -1,2 +1,2 @@
-# OpenAPICourse
-Open API Training Course
+# GitTest
+Git test repository
